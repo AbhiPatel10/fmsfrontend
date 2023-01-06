@@ -22,6 +22,7 @@
     "cors": "^2.8.5",
     "font-awesome": "^4.7.0",
     "moment": "^2.29.4",
+    "moment-timezone": "^0.5.40",
     "navigate": "^0.3.6",
     "react": "^17.0.2",
     "react-apexcharts": "^1.4.0",
