@@ -1,0 +1,154 @@
+.login-form {
+  background-color: #000000a8;
+  border: 4px solid white;
+  border-radius: 20px;
+  width: 400px;
+  margin: 0px auto;
+  /* padding-top: 20px; */
+  height: 420px;
+}
+
+.app {
+  font-family: sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+}
+
+.left {
+  width: 60%;
+  height: 100%;
+  background-color: #00d4d4;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.right {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  background-color: #293241;
+}
+
+
+.form_header {
+  margin: 35px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid beige;
+}
+
+.button-container {
+
+  
+  padding-bottom: 27px;
+  text-align: center;
+}
+
+.button-container input[type="submit"] {
+  border: 1px solid white;
+  width: 107px;
+  font-size: 25px;
+  background-color: black;
+  border: none;
+  border-radius: 21px;
+  color: #000000;
+  margin-top: 20px;
+  background-color: mediumturquoise;
+  padding: 0px;
+}
+.button-container input[type="submit"]:hover
+{
+margin-top: 20px;
+  color: rgb(255, 255, 255);
+}
+
+.fa_icon {
+  width: 0%;
+  padding: 6px;
+  position: relative;
+  font-size: 25px;
+  left: 20px;
+}
+
+
+
+.email_text input {
+  flex: 1 1;
+  border: none;
+  width: 290px;
+  padding-left: -16px;
+  height: 46px;
+  font-size: 17px;
+  border-radius: 20px;
+  padding: 0px 10px 0 50px;
+}
+
+.text_pw input{
+  flex: 1 1;
+  border: none;
+  width: 290px;
+  padding-left: -16px;
+  height: 46px;
+  font-size: 17px;
+  border-radius: 20px;
+  padding: 0px 10px 0 50px;
+}
+
+.fa-eye-slash:before {
+  content: "\f070";
+  font-size: 20px;
+  margin: -36px;
+}
+
+.fa-eye:before {
+  content: "\f06e";
+  margin: -33px;
+  font-size: 20px;
+}
+
+.fa-envelope:before {
+  content: "\f0e0";
+  color: black;
+}
+
+.fa-lock:before {
+  content: "\f023";
+  color: black;
+}
+
+
+.errors p {
+  padding-left: 75px;
+  color: red;
+}
+
+.right_image img {
+  /* width: 676px; */
+  width: 100%;
+  height: 450px;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+}
+
+.icon_box {
+  display: flex;
+  /* width: 100%;
+  padding-left: 37px; */
+}
+
+
+/* Loading  */
+.Loading{
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  z-index: 100;
+}
+/* Loading  */

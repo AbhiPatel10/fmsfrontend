@@ -1,0 +1,68 @@
+
+.list {
+  cursor: pointer;
+  display: inline-block;
+  margin: 10px 0px 10px 0px;
+  word-spacing: normal;
+}
+.sidebar_icon {
+ padding-left: 20px;
+ display: flex;
+ align-items: center;
+}
+.sidebar_icon i{
+  margin-right: 5px;
+}
+.route_style {
+  width: 100%;
+}
+
+.route_style:active {
+  color: white !important;
+}
+
+
+
+
+.sidebar {
+  position: fixed;
+  width: 200px;
+  float: left;
+  height: 100%;
+  background-color: #00d4d4;
+}
+
+.sidebar_icon {
+  padding-left: 20px;
+  display: flex;
+  height: 38px;
+  align-items: center;
+}
+
+.sidebar_icon:active {
+  color: white;
+}
+.sidebar_icon:hover{
+ 
+  color: white;
+ }
+
+
+.fa-user-circle:hover
+{
+  color: rgb(78, 190, 228);
+}
+
+.fa-sign-out:hover
+{
+  color: rgb(78, 190, 228);
+}
+
+.fa-2x span {
+  font-size: 21px;
+  padding: 0px 11px;
+}
+
+.active.route_style .sidebar_icon i {
+  color: #fff !important;
+}

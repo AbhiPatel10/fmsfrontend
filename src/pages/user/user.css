@@ -1,0 +1,17 @@
+.checkbox_user {
+  height: 15px;
+}
+.table-user {
+  background-color: #00d4d4;
+  color: black;
+  font-weight: 600;
+  text-align: center;
+}
+.table-user-body {
+  text-align: center;
+}
+button.MuiButtonBase-root.MuiPaginationItem-root.MuiPaginationItem-page.MuiPaginationItem-textPrimary.Mui-selected {
+  background-color: #00d4d4;
+  color: black;
+    font-weight: 700;
+}

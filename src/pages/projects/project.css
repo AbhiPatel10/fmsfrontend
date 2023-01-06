@@ -1,0 +1,14 @@
+.project_dropdown {
+  margin: auto;
+  width: 60%;
+}
+.checkbox_project {
+  height: 15px;
+}
+.table-project {
+  background-color: #00d4d4;
+  text-align: center;
+}
+.table-project-body {
+  text-align: center;
+}

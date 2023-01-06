@@ -1,0 +1,15 @@
+.checkbox_task {
+  height: 15px;
+}
+.table-task {
+  background-color: #00d4d4;
+  text-align: center;
+}
+.table-task-body {
+  text-align: center;
+}
+button.MuiButtonBase-root.MuiPaginationItem-root.MuiPaginationItem-page.Mui-selected {
+  background-color: #00d4d4;
+  font-weight: 700;
+  color: black;
+}

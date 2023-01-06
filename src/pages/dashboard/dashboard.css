@@ -1,0 +1,163 @@
+.dashboard_card {
+  max-width: 16rem;
+}
+.dashch {
+  display: inline-block;
+}
+.child {
+  padding-left: 50px;
+  display: inline-block;
+}
+.dash {
+  margin-left: 225px;
+}
+.dashch1 {
+  display: inline-block;
+  margin-left: 600px;
+  text-align: justify;
+  margin-bottom: 20px;
+}
+.work {
+  margin-left: 400px;
+}
+.rounded-pill {
+  background-color: #00d4d4;
+  color: #030303;
+  width: 65px;
+}
+
+.card-header {
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+
+img, svg {
+    margin-right: 5px;
+}
+.button {
+  margin-left: 101px;
+}
+i.fa.fa-clock-o {
+  margin: 0px 5px ;
+  font-size: 30px;
+}
+time {
+  font-size: 30px;
+}
+
+.main_dashboard {
+  display: flex;
+}
+.center
+{
+  width: 70%;
+}
+
+.cards {
+  display: flex;
+  margin: 23px 0px;
+  width: 100%;
+}
+
+.dashboard_card {
+  margin: 4px 0px;
+  width: 21%;
+  background-color: rgb(248 249 250);
+  border-radius: 05px;
+  margin-left: 20px;
+}
+.role {
+  background-color: rgb(220 53 69);
+}
+.user{
+  background-color: rgb(255 193 7);
+}
+.task {
+  background-color: rgb(13 110 253);
+}
+.project {
+  background-color: rgb(0 212 212);
+}
+
+
+.card-body .card-title {
+  font-size: 20px;
+}
+
+p.card-text
+{
+  margin: 2px;
+}
+
+.rightside
+{
+  width: 30%;
+}
+
+.rightside {
+  width: 30%;
+  padding: 25px 0px;
+}
+
+.Attendance_card {
+  margin: 0px;
+  margin-right: 26px;
+  margin-bottom: 48px;
+}
+
+.card_body {
+  margin: 25px auto;
+  text-align: center;
+}
+
+.card-date {
+  align-items: center;
+  font-size: 26px;
+  padding: 16px;
+  margin-bottom: 0px;
+}
+
+h5.clock {
+  padding: 15px;
+}
+
+.information {
+  width: 290px;
+  margin: 0px;
+}
+
+.timing_table {
+  margin-top: 42px;
+  width: 100%;
+}
+
+table.table.dashboard.table-bordered.table-primary {
+  width: 92%;
+}
+canvas {
+  max-width: 700px;
+  max-height: 500px;
+  margin-left: 119px;
+  margin-top: 50px;
+}
+
+ul.list_group_main.rounded-3 {
+  width: 367px;
+  padding-left: 0px;
+}
+/* Abhi */
+.main_dashboard_box{
+  margin-left: 200px;
+}
+.top-dashboard_linebox{
+  background-color: rgb(214, 214, 214);
+  width: 100%;
+  height: 70px;
+  display: flex;
+  padding: 15px;
+}
+
+
+/* Abhi */
