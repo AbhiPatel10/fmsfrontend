@@ -8,7 +8,7 @@ export function errorToast(message){
     toast.error(message)
 }
 
-export const ENDPOINTURL = "https://famsystem.herokuapp.com"
+export const ENDPOINTURL = "https://fmsbackend.onrender.com"
 
 export const EventEmitter = {
     events: {},
